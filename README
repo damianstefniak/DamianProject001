@@ -1,1 +1,4 @@
 Damian , powinieneś pomyśleć o  tym jak o swoim
+(function($){
+  var here
+});
